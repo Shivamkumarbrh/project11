@@ -55,3 +55,11 @@
         margin: 0px 15px;
     }
 }
+@media screen and (max-width:600px) {
+    /* .first-article{
+        width: 100%;
+    }
+    .second-article{
+        width: 100%;
+    } */
+}
